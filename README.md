@@ -69,9 +69,14 @@ This project demonstrates skills in **text preprocessing, feature extraction, an
 ```
 Disaster_Tweet_Classification/
 │
-├── Disaster_Tweet_Classification.ipynb   # Main notebook
-├── README.md                             # Project documentation
-└── dataset.csv                           # Tweet dataset
+├──dataset.csv  
+├── app.py
+├── requirements.txt
+├── Disaster_Tweet_Classification.ipynb
+├── models/
+│ ├── Disaster_tweet_model.pkl
+│ └── tfid.pkl
+└── README.md                       
 ```
 
 ---
